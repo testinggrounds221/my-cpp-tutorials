@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604402040 source:d:\shreeram\core_coding\cpp_files\helloworld\main.cpp
+	<iostream>
+
+1604401887 source:d:\shreeram\core_coding\cpp_files\helloworld\log.cpp
+	<iostream>
+

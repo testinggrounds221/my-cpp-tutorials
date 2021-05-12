@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604646462 source:d:\shreeram\core_coding\cpp_files\mycpp\main.cpp
+	<iostream>
+	<cmath>
+
+1604646285 source:d:\shreeram\core_coding\cpp_files\mycpp\arr.cpp
+	<iostream>
+

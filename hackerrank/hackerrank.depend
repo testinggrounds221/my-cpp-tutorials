@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1605238647 source:d:\shreeram\core_coding\cpp_files\hackerrank\main.cpp
+	<iostream>
+
+1605022626 source:d:\shreeram\core_coding\cpp_files\hackerrank\variable sized arrays.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1605008548 source:d:\shreeram\core_coding\cpp_files\hackerrank\vas_temp.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1605026523 source:d:\shreeram\core_coding\cpp_files\hackerrank\strstreamzz.cpp
+
+1605067941 source:d:\shreeram\core_coding\cpp_files\hackerrank\strstream.cpp
+	<sstream>
+	<vector>
+	<iostream>
+
+1605241405 source:d:\shreeram\core_coding\cpp_files\hackerrank\log.cpp
+	<math.h>
+
