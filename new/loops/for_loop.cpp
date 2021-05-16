@@ -88,7 +88,7 @@ int main() {
       cout << "Enter Number upto which Multiplication Table to be "
               "printed	:	";
       cin >> n;
-      cout << "Prime Numbers in given range are " << endl;
+      cout << "TABLE	:	 " << endl;
       multiplicationTable(m, n);
       break;
 
