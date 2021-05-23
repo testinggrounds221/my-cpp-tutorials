@@ -1,0 +1,19 @@
+The word polymorphism means having many forms.
+In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form.
+Polymorphism is considered as one of the important features of Object Oriented Programming.
+
+In C++ polymorphism is mainly divided into two types:
+
+1) Compile time Polymorphism
+2) Runtime polymorphism
+
+1) Compile time polymorphism: This type of polymorphism takes place at compile time and is also known as static binding or early binding.
+Compile time polymorphism can be achieved by - 
+	a) Function overloading
+	b) Operator overloading
+	c) Templates
+
+2) Runtime polymorphism: 
+This type of polymorphism takes place during the runtime and is also known as dynamic binding or late binding.
+Runtime polymorphism can be achieved by - 
+	a) Function overriding

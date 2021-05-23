@@ -1,0 +1,22 @@
+PASS BY VALUE : 
+Copies actual values of arguments(during call) to the formal parameter of the function... Instance variables are created
+
+Variables inside function has only scope within function
+
+Changes made to the parametres have no effect on the argument
+
+Formal and actual parameters have independent memory addresses
+
+Default pass by C++ -> Pass by Value
+
+PASS BY REFERENCE : 
+
+Copies reference of arguments(during call) to the formal parameter of the function...
+
+Reference variables(&x,&y) inside function has only scope within function
+
+Changes made to the parametres have affect the argument
+
+Formal and actual parameters have the same memory addresses... New names are
+being assigned to the previous memory address
+
